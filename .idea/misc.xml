@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Materias_6_7/APLICACIONES_MOVILES/Segundo_parcial/26_01_22/Prueba2_Jorge_Bonilla_Pacheco/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Materias_6_7/APLICACIONES_MOVILES/Segundo_parcial/26_01_22/Prueba2_Jorge_Bonilla_Pacheco/app/src/main/res/layout/activity_login.xml" value="0.67" />
         <entry key="..\:/Materias_6_7/APLICACIONES_MOVILES/Segundo_parcial/26_01_22/Prueba2_Jorge_Bonilla_Pacheco/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Materias_6_7/APLICACIONES_MOVILES/Segundo_parcial/26_01_22/Prueba2_Jorge_Bonilla_Pacheco/app/src/main/res/layout/activity_settings.xml" value="0.1" />
+        <entry key="..\:/Materias_6_7/APLICACIONES_MOVILES/Segundo_parcial/26_01_22/Prueba2_Jorge_Bonilla_Pacheco/app/src/main/res/layout/fragment_main.xml" value="0.1" />
       </map>
     </option>
   </component>
